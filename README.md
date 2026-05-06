@@ -67,6 +67,3 @@ Se aplicó Scrum mediante:
 * Sprint Review
 
 
-- **URL:** `admin.html`
-- **Usuario:** `admin`
-- **Contraseña:** `workspace2025`
